@@ -1,0 +1,22 @@
+{
+  "name": "test-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "star"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domart/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domart/test/issues"
+  },
+  "homepage": "https://github.com/domart/test#readme",
+  "devDependencies": {
+    "webpack": "^4.10.2"
+  }
+}
